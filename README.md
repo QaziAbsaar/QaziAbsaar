@@ -58,14 +58,14 @@ Hello there! I'm **Qazi Absaar**, a passionate Computer Science student with a d
 - **Maltego**: A tool for visualizing and analyzing relationships between data objects, often used in cybersecurity investigations.
 
 ### 📡 IoT (Internet of Things)
-- **Arduino IDE**: 🛠️ Proficient in using the Arduino IDE for programming microcontrollers.
-- **Microcontrollers**: 🖥️ Experience with Arduino, ESP32, PIC, and ARM Cortex microcontrollers.
-- **Embedded Linux**: 🐧 Knowledgeable in working with embedded Linux systems.
-- **Microprocessors**: 💻 Familiar with microprocessor architecture and programming.
-- **EasyEDA**: 🧩 Skilled in using EasyEDA for PCB design and circuit simulation.
-- **Basic Electronics**: ⚡ Strong foundation in basic electronics principles.
-- **Fritzing**: 📐 Proficient in using Fritzing for designing and documenting electronic circuits.
-- **Soldering Kits**: 🔧 Hands-on experience with soldering kits for building electronic projects.
+- **Arduino IDE**:   🛠️ Proficient in using the Arduino IDE for programming microcontrollers.
+- **Microcontrollers**:   🖥️ Experience with Arduino, ESP32, PIC, and ARM Cortex microcontrollers.
+- **Embedded Linux**:   🐧 Knowledgeable in working with embedded Linux systems.
+- **Microprocessors**:   💻 Familiar with microprocessor architecture and programming.
+- **EasyEDA**:   🧩 Skilled in using EasyEDA for PCB design and circuit simulation.
+- **Basic Electronics**:   ⚡ Strong foundation in basic electronics principles.
+- **Fritzing**:   📐 Proficient in using Fritzing for designing and documenting electronic circuits.
+- **Soldering Kits**:   🔧 Hands-on experience with soldering kits for building electronic projects.
 - Projects involving sensor integration, automation, and smart systems.
 
 ### 🤖 AI (Artificial Intelligence)
