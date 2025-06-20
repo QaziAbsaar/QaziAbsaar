@@ -7,6 +7,8 @@ Hello there! I'm **Qazi Absaar**, a passionate Computer Science student with a d
 ---
 
 ## 📂 Projects
+- **Agantic AI FastFood Delivery System**: 🧩 A project utilizing Forinter model like Google Gemini and make it to a useful Agent by integrating it to to WhatsApp via MCP.
+  
 - **Sudoku Puzzle Solver**: 🧩 A project utilizing OCR technology to solve Sudoku puzzles from images.
 
 - **Chess-Playing Robotic Hand**: ♟️ Integrating a chess engine and computer vision for game strategy and move detection.
