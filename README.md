@@ -164,13 +164,16 @@ A computational project focused on optimizing cloud resource distribution using 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qaziabsaar&theme=dark" alt="Qazi Absaar's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qaziabsaar&theme=dark"  alt="Top Languages" />
   <br/>
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=qaziabsaar&theme=dark" alt="GitHub Streak" /></a>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qaziabsaar&theme=dark" 
+    width="600" 
+    style="border-radius: 20px;"
+    alt="Qazi Absaar's Stats"
+  />
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=qaziabsaar&theme=dark&hide_border=true" alt="Streak" />
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qaziabsaar&theme=dark" alt="Top Languages" />
 </div>
 
 ### ✍️ Random Dev Quote
