@@ -9,8 +9,8 @@ My work sits at the intersection of Artificial Intelligence, Computer Vision, Em
 Currently in my 6th semester of a BS in Computer Science at Pak-Austria Fachhochschule, focusing on AI, Cybersecurity, Embedded Systems, and Computer Vision.
 * 🔭 I’m currently working on **Real-time communication interfaces using ESP32 & Jetson Orin** and **Informal Dataset Modeling Research.**
 * 🎓 I am a Computer Science major (6th Semester) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
-* 🌱 I’m currently learning **Advanced Cybersecurity and Embedded Systems.**
-* ⚡ Fun fact: I am also a creative writer and comic book developer.
+* 🌱 I’m currently learning **Advanced AI and Embedded Systems.**
+
 
 
 
