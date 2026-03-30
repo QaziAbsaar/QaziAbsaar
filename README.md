@@ -12,9 +12,13 @@ Currently in my 6th semester of a BS in Computer Science at Pak-Austria Fachhoch
 * 🌱 I’m currently learning **Advanced AI and Embedded Systems.**
 <br/>
 <div align="center">
-  <img src="REPLACE_WITH_DIRECT_GIF_LINK.gif" alt="Portfolio or Project Demo Gif" width="600" />
+  <a href="[https://i.ibb.co/qMmFFqNw/original-60aae7177741ab5a76226d3513b76b7e.gif]">
+    <img src="https://i.ibb.co/qMmFFqNw/original-60aae7177741ab5a76226d3513b76b7e.gif" alt="Gif" />
+  </a>
 </div>
 <br/>
+
+
 ## 💻 Tech Stack
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 <br>
