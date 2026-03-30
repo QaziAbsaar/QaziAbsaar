@@ -12,7 +12,7 @@ Currently in my 6th semester of a BS in Computer Science at Pak-Austria Fachhoch
 * 🌱 I’m currently learning **Advanced AI and Embedded Systems.**
 <br/>
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=qaziabsaar&theme=dark" alt="GitHub Streak" /></a>
+ <img src="[https://ibb.co/kgq66b4F]" alt="Gif" /></a>
 </div>
 <br/>
 
