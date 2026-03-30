@@ -2,14 +2,23 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-qaziabsaar.me-2ea44f?style=for-the-badge&logo=vercel)](https://qaziabsaar.me)
 
-## 💫 About Me
-I build real-world AI systems, not toy demos.
-My work sits at the intersection of Artificial Intelligence, Computer Vision, Embedded Systems, and IoT — from sensors and microcontrollers all the way to deployed AI APIs and edge devices.
+## 💫 Digital Architect & AI Solutions Engineer
+I architect **Full-Stack Agentic AI systems** and **Cloud-native solutions**. My work bridges the gap between high-performance cloud computing and the physical world—from developing scalable AI APIs and web platforms to deploying intelligence on Edge devices.
 
-Currently in my 6th semester of a BS in Computer Science at Pak-Austria Fachhochschule, focusing on AI, Embedded Systems, and Computer Vision.
-* 🔭 I’m currently working on **Real-time communication interfaces using ESP32 & Jetson Orin** and **Informal Dataset Modeling Research.**
-* 🎓 I am a Computer Science major (6th Semester) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
-* 🌱 I’m currently learning **Advanced AI and Embedded Systems.**
+* 🚀 **Full-Stack AI:** Building end-to-end applications using **Next.js/React**, **Node.js**, and **FastAPI**.
+* 🔭 **Currently Scaling:** Real-time **Agentic Interfaces** using Jetson Orin and Cloud-orchestrated AI workflows.
+* 🧠 **Research Focus:** Modeling behavior in unstructured systems using **Weak & Noisy Data** (Informal Dataset Modeling).
+* 🎓 **Education:** CS Major (6th Sem) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
+
+---
+
+### 🛠️ Core Competencies
+
+| **AI & Cloud Solutions** | **Full-Stack Development** | **Edge Intelligence** |
+| :--- | :--- | :--- |
+| **Generative AI & LLMs** | **Next.js / React / TypeScript** | **Computer Vision (YOLO/OpenCV)** |
+| **Cloud-Native AI APIs** | **Node.js / Python (FastAPI)** | **Edge AI (Jetson Orin/Nano)** |
+| **Distributed Systems** | **PostgreSQL / MongoDB / Redis** | **IoT-Cloud Synchronization** |
 <br/>
 <div align="center">
   <a href="[https://i.ibb.co/qMmFFqNw/original-60aae7177741ab5a76226d3513b76b7e.gif]">
