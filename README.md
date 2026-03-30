@@ -6,7 +6,7 @@
 I build real-world AI systems, not toy demos.
 My work sits at the intersection of Artificial Intelligence, Computer Vision, Embedded Systems, and IoT — from sensors and microcontrollers all the way to deployed AI APIs and edge devices.
 
-Currently in my 6th semester of a BS in Computer Science at Pak-Austria Fachhochschule, focusing on AI, Cybersecurity, Embedded Systems, and Computer Vision.
+Currently in my 6th semester of a BS in Computer Science at Pak-Austria Fachhochschule, focusing on AI, Embedded Systems, and Computer Vision.
 * 🔭 I’m currently working on **Real-time communication interfaces using ESP32 & Jetson Orin** and **Informal Dataset Modeling Research.**
 * 🎓 I am a Computer Science major (6th Semester) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
 * 🌱 I’m currently learning **Advanced AI and Embedded Systems.**
