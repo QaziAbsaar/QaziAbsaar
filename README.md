@@ -10,6 +10,14 @@ I architect **Full-Stack Agentic AI systems** and **Cloud-native solutions**. My
 * 🧠 **Research Focus:** Modeling behavior in unstructured systems using **Weak & Noisy Data** (Informal Dataset Modeling).
 * 🎓 **Education:** CS Major (6th Sem) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
 
+
+<br/>
+<div align="center">
+  <a href="[https://i.ibb.co/NnsPTz0d/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif]">
+    <img src="https://i.ibb.co/NnsPTz0d/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Gif" />
+  </a>
+</div>
+<br/>
 ---
 
 ### 🛠️ Core Competencies
@@ -19,13 +27,6 @@ I architect **Full-Stack Agentic AI systems** and **Cloud-native solutions**. My
 | **Generative AI & LLMs** | **Next.js / React / TypeScript** | **Computer Vision (YOLO/OpenCV)** |
 | **Cloud-Native AI APIs** | **Node.js / Python (FastAPI)** | **Edge AI (Jetson Orin/Nano)** |
 | **Distributed Systems** | **PostgreSQL / MongoDB / Redis** | **IoT-Cloud Synchronization** |
-<br/>
-<div align="center">
-  <a href="[https://i.ibb.co/NnsPTz0d/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif]">
-    <img src="https://i.ibb.co/NnsPTz0d/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Gif" />
-  </a>
-</div>
-<br/>
 
 
 ## 💻 Tech Stack
