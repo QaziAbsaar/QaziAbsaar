@@ -21,8 +21,8 @@ I architect **Full-Stack Agentic AI systems** and **Cloud-native solutions**. My
 | **Distributed Systems** | **PostgreSQL / MongoDB / Redis** | **IoT-Cloud Synchronization** |
 <br/>
 <div align="center">
-  <a href="[https://i.ibb.co/qMmFFqNw/original-60aae7177741ab5a76226d3513b76b7e.gif]">
-    <img src="https://i.ibb.co/qMmFFqNw/original-60aae7177741ab5a76226d3513b76b7e.gif" alt="Gif" />
+  <a href="[https://i.ibb.co/NnsPTz0d/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif]">
+    <img src="https://i.ibb.co/NnsPTz0d/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Gif" />
   </a>
 </div>
 <br/>
