@@ -1,6 +1,6 @@
 
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-qaziabsaar.me-2ea44f?style=for-the-badge&logo=vercel)](https://qaziabsaar.me)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-qaziabsaar.dev-2ea44f?style=for-the-badge&logo=vercel)](https://qaziabsaar.dev)
 
 ## 💫 Digital Architect & AI Solutions Engineer
 I architect **Full-Stack Agentic AI systems** and **Cloud-native solutions**. My work bridges the gap between high-performance cloud computing and the physical world—from developing scalable AI APIs and web platforms to deploying intelligence on Edge devices.
