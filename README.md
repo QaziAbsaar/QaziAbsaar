@@ -8,7 +8,7 @@ I architect **Full-Stack Agentic AI systems** and **Cloud-native solutions**. My
 * 🚀 **Full-Stack AI:** Building end-to-end applications using **Next.js/React**, **Node.js**, and **FastAPI**.
 * 🔭 **Currently Scaling:** Real-time **Agentic Interfaces** using Jetson Orin and Cloud-orchestrated AI workflows.
 * 🧠 **Research Focus:** Modeling behavior in unstructured systems using **Weak & Noisy Data** (Informal Dataset Modeling).
-* 🎓 **Education:** CS Major (6th Sem) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
+* 🎓 **Education:** CS Major (7th Sem) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
 
 
 <br/>
