@@ -2,13 +2,13 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-qaziabsaar.dev-2ea44f?style=for-the-badge&logo=vercel)](https://qaziabsaar.dev)
 
-## 💫 Digital Architect & AI Solutions Engineer
+## AI/ML Engineer & IoT Developer | Islamabad, Pakistan
 I architect **Full-Stack Agentic AI systems** and **Cloud-native solutions**. My work bridges the gap between high-performance cloud computing and the physical world—from developing scalable AI APIs and web platforms to deploying intelligence on Edge devices.
 
-* 🚀 **Full-Stack AI:** Building end-to-end applications using **Next.js/React**, **Node.js**, and **FastAPI**.
-* 🔭 **Currently Scaling:** Real-time **Agentic Interfaces** using Jetson Orin and Cloud-orchestrated AI workflows.
-* 🧠 **Research Focus:** Modeling behavior in unstructured systems using **Weak & Noisy Data** (Informal Dataset Modeling).
-* 🎓 **Education:** CS Major (7th Sem) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
+*  **Full-Stack AI:** Building end-to-end applications using **Next.js/React**, **Node.js**, and **FastAPI**.
+*  **Currently Scaling:** Real-time **Agentic Interfaces** using Jetson Orin and Cloud-orchestrated AI workflows.
+*  **Research Focus:** Modeling behavior in unstructured systems using **Weak & Noisy Data** (Informal Dataset Modeling).
+*  **Education:** CS Major (7th Sem) at **Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology.**
 
 
 <br/>
