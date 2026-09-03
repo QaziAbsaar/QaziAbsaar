@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-qaziabsaar.dev-2ea44f?style=for-the-badge&logo=vercel)](https://qaziabsaar.dev)
 
-## AI/ML Engineer & IoT Developer | Islamabad, Pakistan
+## AI/ML Engineer & IoT Developer | Edge Computing
 I architect **Full-Stack Agentic AI systems** and **Cloud-native solutions**. My work bridges the gap between high-performance cloud computing and the physical world—from developing scalable AI APIs and web platforms to deploying intelligence on Edge devices.
 
 *  **Full-Stack AI:** Building end-to-end applications using **Next.js/React**, **Node.js**, and **FastAPI**.
